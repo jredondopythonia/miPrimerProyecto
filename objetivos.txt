@@ -1,0 +1,5 @@
+Mis objetivos del curso son:
+    -Ser capaz de crear webs y aplicaciones webs
+    -Aprender Javascript
+    -Conseguir un trabajo relacionado con el curso
+    -Cambiar mi carrera profesional hacia este campo
