@@ -1,0 +1,5 @@
+Los conocimientos previos que tengo son:
+    -HTML
+    -CSS
+    -PYTON
+    -JAVASCRIPT
